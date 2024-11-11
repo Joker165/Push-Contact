@@ -2,11 +2,11 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //==========================
-global.owner = ["2348102487241"]
-global.botname = ['']
+global.owner = ["2348022159244"]
+global.botname = ['ANTISOCIAL HUMIDITY 🍀']
 //==========================
 global.prefa = ['']
-global.thumb = { url: 'https://telegra.ph/file/c2e84a4776ee6c47aa3a5.jpg' }//ur thumb pic
+global.thumb = { url: 'https://telegra.ph/file/c5cd34db4564750eee3f0.jpg' }//ur thumb pic
 
 //=================================================//
 //cpanel
